@@ -1,7 +1,7 @@
 # Weather
 Traditional weather app.
 
-#### Steak:
+#### Stack:
 - Jetpack Compose
 - Kotlin Corutines
 - Retrofit 2
