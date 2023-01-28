@@ -3,7 +3,7 @@ Traditional weather app.
 
 #### Stack:
 - Jetpack Compose
-- Kotlin Corutines
+- Kotlin Coroutines
 - Retrofit 2
 - Hilt
 - MVI
