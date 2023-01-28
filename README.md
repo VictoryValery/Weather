@@ -1,5 +1,5 @@
 # Weather
-Traditional weather app.
+Weather app.
 
 #### Stack:
 - Jetpack Compose
